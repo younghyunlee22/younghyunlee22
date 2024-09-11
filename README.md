@@ -8,7 +8,7 @@
 </div>
 
 <div style="font-family: monospace;">
-- 🔭 I’m currently working and collaborating on BookDo7starsTS.<br>
+- 🔭 I’m currently working and collaborating on <a href="https://github.com/BookDo7starsTS">BookDo7starsTS</a>.<br>
 - 🌱 I’m currently learning C++.<br>
 - 🤔 I’m looking for help with interview preparation.<br>
 - 💬 Ask me about JavaScript.<br>
